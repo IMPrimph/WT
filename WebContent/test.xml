@@ -1,0 +1,102 @@
+<school>
+
+ <student category="COOKING">
+ <name lang="en">Jaswanth</name>
+ <maths>89</maths>
+ <physics>75</physics>
+ <chemistry>80</chemistry>
+ <english>90</english>
+ <social>80</social>
+ </student>
+ 
+ <student category="CHILDREN">
+ <name lang="en">Bhuvan</name>
+ <maths>99</maths>
+ <physics>85</physics>
+ <chemistry>89</chemistry>
+  <english>80</english>
+ <social>80</social>
+ </student>
+ 
+ <student category="WEB">
+ <name lang="en">Charan</name>
+ <maths>92</maths>
+ <physics>73</physics>
+ <chemistry>95</chemistry>
+  <english>70</english>
+ <social>60</social>
+ </student>
+ 
+  <student category="WEB">
+ <name lang="en">Ram</name>
+ <maths>60</maths>
+ <physics>90</physics>
+ <chemistry>75</chemistry>
+  <english>73</english>
+ <social>80</social>
+ </student>
+ 
+  <student>
+ <name lang="en">Peter</name>
+ <maths>92</maths>
+ <physics>73</physics>
+ <chemistry>95</chemistry>
+  <english>70</english>
+ <social>60</social>
+ </student>
+ 
+  <student>
+ <name lang="en">Charan</name>
+ <maths>92</maths>
+ <physics>73</physics>
+ <chemistry>95</chemistry>
+  <english>70</english>
+ <social>60</social>
+ </student>
+ 
+  <student>
+ <name lang="en">Kiran</name>
+ <maths>72</maths>
+ <physics>85</physics>
+ <chemistry>65</chemistry>
+  <english>90</english>
+ <social>80</social>
+ </student>
+ 
+  <student>
+ <name lang="en">Ramesh</name>
+ <maths>72</maths>
+ <physics>83</physics>
+ <chemistry>95</chemistry>
+  <english>80</english>
+ <social>70</social>
+ </student>
+ 
+  <student>
+ <name lang="en">Suresh</name>
+ <maths>82</maths>
+ <physics>75</physics>
+ <chemistry>65</chemistry>
+  <english>80</english>
+ <social>90</social>
+ </student>
+ 
+  <student>
+ <name lang="en">Stuart</name>
+ <maths>80</maths>
+ <physics>63</physics>
+ <chemistry>55</chemistry>
+  <english>80</english>
+ <social>90</social>
+ </student>
+ 
+  <student>
+ <name lang="en">Brownie</name>
+ <maths>72</maths>
+ <physics>67</physics>
+ <chemistry>85</chemistry>
+  <english>90</english>
+ <social>100</social>
+ </student>
+ 
+</school>
